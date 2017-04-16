@@ -1,8 +1,0 @@
-{
-  "name": "jenkins",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/Edrack/jenkins.git",
-  "author": "Mike <enmi@mailueberfal.de>",
-  "license": "MIT"
-}
