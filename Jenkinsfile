@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                cmd /C 'npm --version'
+                sh 'npm --version'
             }
         }
     }
